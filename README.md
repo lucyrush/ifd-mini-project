@@ -1,1 +1,1 @@
-# ifd-mini-project
+# Interactive Frontend Development Mini-Project
